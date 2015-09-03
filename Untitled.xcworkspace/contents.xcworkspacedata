@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Tarea5Ejercicio4/Tarea5Ejercicio4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea5Ejercicio3/Tarea5Ejercicio3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea5Ejercicio2/Tarea5Ejercicio2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea5Ejercicio1/Tarea5Ejercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EjemplosSTL/EjemplosSTL.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Grafo/Grafo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SegundoParcialEjercicio1/SegundoParcialEjercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:listaDoble/listaDoble.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Arboles/Arboles.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ListasEjercicio1/ListasEjercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea4Ejercicio4/Tarea4Ejercicio4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea4Ejercicio3/Tarea4Ejercicio3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea4Ejercicio2/Tarea4Ejercicio2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea4Ejercicio1/Tarea4Ejercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Cola/Cola.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea3Ejercicio5/Tarea3Ejercicio5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pila/Pila.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea3Ejercicio4/Tarea3Ejercicio4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea3Ejercicio3/Tarea3Ejercicio3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea3Ejercicio2/Tarea3Ejercicio2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea3Ejercicio1/Tarea3Ejercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ListasEnlazadas/ListasEnlazadas.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Apuntadores/Apuntadores.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PrimerParcialEjercicio2/PrimerParcialEjercicio2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PrimerParcialEjercicio1/PrimerParcialEjercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea2Ejercicio1/Tarea2Ejercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea2Ejercicio3/Tarea2Ejercicio3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea2Ejercicio2/Tarea2Ejercicio2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Ordenamiento/Ordenamiento.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea1Ejercicio3/Tarea1Ejercicio3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea1Ejercicio2/Tarea1Ejercicio2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tarea1Ejercicio1/Tarea1Ejercicio1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AlgoritmosDeBusqueda/AlgoritmosDeBusqueda.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:Recursividad/Recursividad.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,289 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		65BFC2091A0559B7001DD3E9 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC2081A0559B7001DD3E9 /* main.cpp */; };
+		65BFC2111A0559D4001DD3E9 /* Hora.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC20F1A0559D4001DD3E9 /* Hora.cpp */; };
+		65BFC2141A055F77001DD3E9 /* Avion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC2121A055F77001DD3E9 /* Avion.cpp */; };
+		65BFC2171A055F89001DD3E9 /* Vuelo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC2151A055F89001DD3E9 /* Vuelo.cpp */; };
+		65BFC21C1A056278001DD3E9 /* ListaEnlazada.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC2181A056278001DD3E9 /* ListaEnlazada.cpp */; };
+		65BFC21D1A056278001DD3E9 /* Nodo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC21A1A056278001DD3E9 /* Nodo.cpp */; };
+		65BFC2201A056307001DD3E9 /* Cola.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC21E1A056307001DD3E9 /* Cola.cpp */; };
+		65BFC2231A057686001DD3E9 /* Pista.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC2211A057686001DD3E9 /* Pista.cpp */; };
+		65BFC2261A058B4E001DD3E9 /* Ordenamiento.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BFC2241A058B4E001DD3E9 /* Ordenamiento.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		65BFC2031A0559B7001DD3E9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		65BFC2051A0559B7001DD3E9 /* Aeropuerto */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Aeropuerto; sourceTree = BUILT_PRODUCTS_DIR; };
+		65BFC2081A0559B7001DD3E9 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		65BFC20F1A0559D4001DD3E9 /* Hora.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Hora.cpp; sourceTree = "<group>"; };
+		65BFC2101A0559D4001DD3E9 /* Hora.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hora.h; sourceTree = "<group>"; };
+		65BFC2121A055F77001DD3E9 /* Avion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Avion.cpp; sourceTree = "<group>"; };
+		65BFC2131A055F77001DD3E9 /* Avion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Avion.h; sourceTree = "<group>"; };
+		65BFC2151A055F89001DD3E9 /* Vuelo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Vuelo.cpp; sourceTree = "<group>"; };
+		65BFC2161A055F89001DD3E9 /* Vuelo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vuelo.h; sourceTree = "<group>"; };
+		65BFC2181A056278001DD3E9 /* ListaEnlazada.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ListaEnlazada.cpp; sourceTree = "<group>"; };
+		65BFC2191A056278001DD3E9 /* ListaEnlazada.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListaEnlazada.h; sourceTree = "<group>"; };
+		65BFC21A1A056278001DD3E9 /* Nodo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Nodo.cpp; sourceTree = "<group>"; };
+		65BFC21B1A056278001DD3E9 /* Nodo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Nodo.h; sourceTree = "<group>"; };
+		65BFC21E1A056307001DD3E9 /* Cola.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Cola.cpp; sourceTree = "<group>"; };
+		65BFC21F1A056307001DD3E9 /* Cola.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cola.h; sourceTree = "<group>"; };
+		65BFC2211A057686001DD3E9 /* Pista.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Pista.cpp; sourceTree = "<group>"; };
+		65BFC2221A057686001DD3E9 /* Pista.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pista.h; sourceTree = "<group>"; };
+		65BFC2241A058B4E001DD3E9 /* Ordenamiento.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ordenamiento.cpp; sourceTree = "<group>"; };
+		65BFC2251A058B4E001DD3E9 /* Ordenamiento.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ordenamiento.h; sourceTree = "<group>"; };
+		65BFC2271A058F19001DD3E9 /* Itinerario.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Itinerario.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		65BFC2021A0559B7001DD3E9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		65BFC1FC1A0559B7001DD3E9 = {
+			isa = PBXGroup;
+			children = (
+				65BFC2071A0559B7001DD3E9 /* Aeropuerto */,
+				65BFC2061A0559B7001DD3E9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		65BFC2061A0559B7001DD3E9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				65BFC2051A0559B7001DD3E9 /* Aeropuerto */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		65BFC2071A0559B7001DD3E9 /* Aeropuerto */ = {
+			isa = PBXGroup;
+			children = (
+				65BFC2271A058F19001DD3E9 /* Itinerario.txt */,
+				65BFC2241A058B4E001DD3E9 /* Ordenamiento.cpp */,
+				65BFC2251A058B4E001DD3E9 /* Ordenamiento.h */,
+				65BFC21E1A056307001DD3E9 /* Cola.cpp */,
+				65BFC21F1A056307001DD3E9 /* Cola.h */,
+				65BFC2181A056278001DD3E9 /* ListaEnlazada.cpp */,
+				65BFC2191A056278001DD3E9 /* ListaEnlazada.h */,
+				65BFC21A1A056278001DD3E9 /* Nodo.cpp */,
+				65BFC21B1A056278001DD3E9 /* Nodo.h */,
+				65BFC2151A055F89001DD3E9 /* Vuelo.cpp */,
+				65BFC2161A055F89001DD3E9 /* Vuelo.h */,
+				65BFC2121A055F77001DD3E9 /* Avion.cpp */,
+				65BFC2131A055F77001DD3E9 /* Avion.h */,
+				65BFC2081A0559B7001DD3E9 /* main.cpp */,
+				65BFC20F1A0559D4001DD3E9 /* Hora.cpp */,
+				65BFC2101A0559D4001DD3E9 /* Hora.h */,
+				65BFC2211A057686001DD3E9 /* Pista.cpp */,
+				65BFC2221A057686001DD3E9 /* Pista.h */,
+			);
+			path = Aeropuerto;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		65BFC2041A0559B7001DD3E9 /* Aeropuerto */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65BFC20C1A0559B7001DD3E9 /* Build configuration list for PBXNativeTarget "Aeropuerto" */;
+			buildPhases = (
+				65BFC2011A0559B7001DD3E9 /* Sources */,
+				65BFC2021A0559B7001DD3E9 /* Frameworks */,
+				65BFC2031A0559B7001DD3E9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Aeropuerto;
+			productName = Aeropuerto;
+			productReference = 65BFC2051A0559B7001DD3E9 /* Aeropuerto */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		65BFC1FD1A0559B7001DD3E9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = Gotomo;
+				TargetAttributes = {
+					65BFC2041A0559B7001DD3E9 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+				};
+			};
+			buildConfigurationList = 65BFC2001A0559B7001DD3E9 /* Build configuration list for PBXProject "Aeropuerto" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 65BFC1FC1A0559B7001DD3E9;
+			productRefGroup = 65BFC2061A0559B7001DD3E9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				65BFC2041A0559B7001DD3E9 /* Aeropuerto */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		65BFC2011A0559B7001DD3E9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65BFC2201A056307001DD3E9 /* Cola.cpp in Sources */,
+				65BFC2261A058B4E001DD3E9 /* Ordenamiento.cpp in Sources */,
+				65BFC2091A0559B7001DD3E9 /* main.cpp in Sources */,
+				65BFC2171A055F89001DD3E9 /* Vuelo.cpp in Sources */,
+				65BFC2231A057686001DD3E9 /* Pista.cpp in Sources */,
+				65BFC2111A0559D4001DD3E9 /* Hora.cpp in Sources */,
+				65BFC21D1A056278001DD3E9 /* Nodo.cpp in Sources */,
+				65BFC21C1A056278001DD3E9 /* ListaEnlazada.cpp in Sources */,
+				65BFC2141A055F77001DD3E9 /* Avion.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		65BFC20A1A0559B7001DD3E9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		65BFC20B1A0559B7001DD3E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		65BFC20D1A0559B7001DD3E9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		65BFC20E1A0559B7001DD3E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		65BFC2001A0559B7001DD3E9 /* Build configuration list for PBXProject "Aeropuerto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65BFC20A1A0559B7001DD3E9 /* Debug */,
+				65BFC20B1A0559B7001DD3E9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65BFC20C1A0559B7001DD3E9 /* Build configuration list for PBXNativeTarget "Aeropuerto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65BFC20D1A0559B7001DD3E9 /* Debug */,
+				65BFC20E1A0559B7001DD3E9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 65BFC1FD1A0559B7001DD3E9 /* Project object */;
+}
